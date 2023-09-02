@@ -31,10 +31,20 @@ Throughout this project, I've embarked on a journey of research, exploration, an
 - Preparing, modeling, training, and testing machine learning models.
 - Drawing insights and conclusions from a wealth of visualizations and experiments.
 
+## Screenshots
+
+Here are some sample screenshots from the Image Classification project:
+
+![Sample 1](SampleImages/Sample1.jpg)
+![Sample 2](SampleImages/Sample2.jpg)
+![Sample 3](SampleImages/Sample3.jpg)
+![Sample 4](SampleImages/Sample4.jpg)
+![Sample 5](SampleImages/Sample5.jpg)
+![Sample 6](SampleImages/Sample6.jpg)
+![Sample 7](SampleImages/Sample7.jpg)
+
 ## Conclusion
 
 I am thrilled to share the results of this image classification project. By combining hands-on experience, experimentation, and analytical insights, I've delved into the exciting world of image analysis. This repository stands as a testament to the fascinating intersection of machine learning and image classification.
-
-Feel free to explore each notebook to uncover detailed analyses, visualizations, and the techniques employed. If you're interested in more of my work, you can find me on [GitHub](https://github.com/your-username).
 
 Happy exploring, learning, and coding!
